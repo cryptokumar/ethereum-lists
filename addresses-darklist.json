@@ -4,6 +4,11 @@
   "comment":"myelherwallel.com wallet",
   "date":"2017-07-31"
 },
+  {
+  "address":"0xccca6c5f89bf77a247c0681423b1dff66b28ef63",
+  "comment":"",
+  "date":"2017-08-08"
+},
 {
   "address":"0xf0a924661b0263e5ce12756d07f45b8668c53380",
   "comment":"Ziber.io is now offline, this was their 'contract' address after their original one was suicide",
